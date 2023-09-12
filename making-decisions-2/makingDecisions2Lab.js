@@ -64,25 +64,25 @@ var score = 74
 // let letterGrade = "C"
 if (score >= 60 && score <= 69) {
    let letterGrade = "D"
-    console.log(letterGrade)
+    //console.log(letterGrade)
 }
     else if (score >= 70 && score <= 79) {
         let letterGrade = "C"
-    console.log(letterGrade)
+    //console.log(letterGrade)
     }
     else if (score >= 80 && score <= 89) {
         let letterGrade = "B"
-    console.log(letterGrade)
+    //console.log(letterGrade)
     }
     else if (score >= 90) {
         let letterGrade = "A"
-    console.log(letterGrade)
+    //console.log(letterGrade)
     }
     else {
         let letterGrade = "F"
-    console.log(letterGrade)
+    //console.log(letterGrade)
     }
-// console.log(letterGrade)
+console.log(letterGrade)
 
 
 ////////// Intermediate Problems //////////
